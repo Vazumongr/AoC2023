@@ -1,0 +1,14 @@
+C:\Users\giant\Documents\AdventOfCode\AoC2023\AoC2023\bin\Debug\AoC2023.exe
+C:\Users\giant\Documents\AdventOfCode\AoC2023\AoC2023\bin\Debug\AoC2023.pdb
+C:\Users\giant\Documents\AdventOfCode\AoC2023\AoC2023\obj\Debug\AoC2023.csproj.AssemblyReference.cache
+C:\Users\giant\Documents\AdventOfCode\AoC2023\AoC2023\obj\Debug\AoC2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\giant\Documents\AdventOfCode\AoC2023\AoC2023\obj\Debug\AoC2023.csproj.CoreCompileInputs.cache
+C:\Users\giant\Documents\AdventOfCode\AoC2023\AoC2023\obj\Debug\AoC2023.exe
+C:\Users\giant\Documents\AdventOfCode\AoC2023\AoC2023\obj\Debug\AoC2023.pdb
+C:\Users\giant\Documents\AdventOfCode\AoC2023\bin\Debug\AoC2023.exe
+C:\Users\giant\Documents\AdventOfCode\AoC2023\bin\Debug\AoC2023.pdb
+C:\Users\giant\Documents\AdventOfCode\AoC2023\obj\Debug\AoC2023.csproj.AssemblyReference.cache
+C:\Users\giant\Documents\AdventOfCode\AoC2023\obj\Debug\AoC2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\giant\Documents\AdventOfCode\AoC2023\obj\Debug\AoC2023.csproj.CoreCompileInputs.cache
+C:\Users\giant\Documents\AdventOfCode\AoC2023\obj\Debug\AoC2023.exe
+C:\Users\giant\Documents\AdventOfCode\AoC2023\obj\Debug\AoC2023.pdb
